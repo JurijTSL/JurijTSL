@@ -1,5 +1,3 @@
-![Yeah Science](https://media3.giphy.com/media/QC7UQbxq89MnL9r6AN/giphy.gif)
-
 ### Hello There 👋
 
 - 🌱 I’m currently learning **Java Spring** and **JSF**
