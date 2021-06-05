@@ -2,7 +2,7 @@
 
 ### Hello There 👋
 
-- 🌱 I’m currently learning **Java Spring and JSF**
+- 🌱 I’m currently learning **Java Spring** and **JSF**
 - ⚡ Fun fact: **The first computer virus was created in 1983.**
 
 ### My Stats
